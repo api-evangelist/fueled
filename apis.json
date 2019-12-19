@@ -1,0 +1,69 @@
+{
+    "name": "FUELED",
+    "description": "Award-winning iPhone and Android apps for startups and enterprise clients. Strategic app planning, design, and development, QA, user testing, branding, etc.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8791-fueled.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fueled\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FUELED",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8791-fueled.jpg",
+            "humanURL": "http:\/\/www.fueled.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fueled-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fueled"
+        },
+        {
+            "type": "Email",
+            "url": "chicago@fueled.com"
+        },
+        {
+            "type": "Email",
+            "url": "hello@fueled.com"
+        },
+        {
+            "type": "Email",
+            "url": "nyc@fueled.com"
+        },
+        {
+            "type": "Email",
+            "url": "uk@fueled.com"
+        },
+        {
+            "type": "Email",
+            "url": "la@fueled.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fueledinc"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Fueled"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.fueled.com "
+        }
+    ]
+}
